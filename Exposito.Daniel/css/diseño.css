@@ -1,0 +1,19 @@
+body {
+    background-color: #D56567;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.container {
+    background-color: white;
+    padding: 20px;
+    border: 1px solid #ddd;
+}
+
+.left-column {
+    display: flex;
+    align-items: center;
+}
